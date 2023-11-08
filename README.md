@@ -1,6 +1,6 @@
-# android_studio_check
+# Flutter sun system
 
-A new Flutter project.
+Flutter test project.
 
 ## Getting Started
 
